@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Creating an Interacive Dice Roller App</string>
+    <string name="roll">Roll</string>
 </resources>
